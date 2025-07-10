@@ -1,3 +1,6 @@
 ipykernel
-numpy
 requests
+numpy
+pandas
+matplotlib
+seaborn
