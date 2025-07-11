@@ -1,0 +1,16 @@
+2025-07-11 16:47:30,915 - root - INFO - Main module started.
+2025-07-11 16:47:30,917 - module_a - INFO - Module A function started
+2025-07-11 16:47:30,918 - module_a - DEBUG - This is a debug message from Module A
+2025-07-11 16:47:30,920 - module_a - INFO - Module A function finished
+2025-07-11 16:47:30,921 - module_b - INFO - Module B function started
+2025-07-11 16:47:30,921 - module_b - DEBUG - This is a debug message from Module B
+2025-07-11 16:47:30,922 - module_b - INFO - Module B function finished
+2025-07-11 16:47:30,923 - root - INFO - Main module finished.
+2025-07-11 16:47:47,140 - root - INFO - Main module started.
+2025-07-11 16:47:47,141 - module_a - INFO - Module A function started
+2025-07-11 16:47:47,150 - module_a - DEBUG - This is a debug message from Module A
+2025-07-11 16:47:47,151 - module_a - INFO - Module A function finished
+2025-07-11 16:47:47,152 - module_b - INFO - Module B function started
+2025-07-11 16:47:47,152 - module_b - DEBUG - This is a debug message from Module B
+2025-07-11 16:47:47,153 - module_b - INFO - Module B function finished
+2025-07-11 16:47:47,154 - root - INFO - Main module finished.

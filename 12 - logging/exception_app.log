@@ -1,0 +1,6 @@
+2025-07-11 16:20:37,601 - my_logger - ERROR - Zero Division Error.
+2025-07-11 16:27:34,839 - my_logger - DEBUG - This is a debug message
+2025-07-11 16:27:35,056 - my_logger - INFO - This is an info message
+2025-07-11 16:27:35,059 - my_logger - WARNING - This is a warning message
+2025-07-11 16:27:35,061 - my_logger - ERROR - This is an error message
+2025-07-11 16:27:35,062 - my_logger - CRITICAL - This is a critical message
